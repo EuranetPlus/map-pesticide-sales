@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik pesticidů se prodalo v EU?",
+  "subtitle": "Celkový prodej pesticidů v EU-27 se zvýšil z přibližně 18,46 milionu v roce 2022 na přibližně 19,09 milionu v roce 2023, což odpovídá růstu o přibližně 3,4 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Pro Bulharsko, Maltu a Polsko nejsou uvedeny žádné údaje. Údaje se týkají regulátorů růstu rostlin a dalších látek na ochranu rostlin.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "kg",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
