@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de pesticides ont été vendus dans l’UE ?",
+  "subtitle": "Les ventes totales de pesticides dans l'UE27 sont passées d'environ 18,46 millions en 2022 à environ 19,09 millions en 2023, ce qui correspond à une croissance d'environ 3,4 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Aucune donnée n'est fournie pour la Bulgarie, Malte et la Pologne. Les données concernent les régulateurs de croissance des plantes et autres substances phytosanitaires.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "kg",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
