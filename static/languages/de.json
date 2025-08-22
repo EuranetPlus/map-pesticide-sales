@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Pestizide wurden in der EU verkauft?",
+  "subtitle": "Der Gesamtabsatz von Pestiziden in der EU27 stieg von rund 18,46 Millionen im Jahr 2022 auf rund 19,09 Millionen im Jahr 2023, was einem Wachstum von rund 3,4 % entspricht.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Für Bulgarien, Malta und Polen liegen keine Daten vor. Die Daten bestehen aus Pflanzenwachstumsregulatoren und anderen Pflanzenschutzmitteln.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "kg",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
