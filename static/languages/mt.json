@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm inbiegħu pestiċidi fl-UE?",
+  "subtitle": "Il-bejgħ totali ta' pestiċidi fl-UE27 żdied minn madwar 18.46 miljun fl-2022 għal madwar 19.09 miljun fl-2023, li jikkorrispondi għal tkabbir ta' madwar 3.4%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Ma ngħatat l-ebda dejta għall-Bulgarija, Malta, il-Polonja. Id-dejta tikkonsisti f'regolaturi tat-tkabbir tal-pjanti u sustanzi oħra għall-protezzjoni tal-pjanti.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "kilogramm",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
