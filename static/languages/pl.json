@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile pestycydów sprzedano w UE?",
+  "subtitle": "Całkowita sprzedaż pestycydów w UE-27 wzrosła z ok. 18,46 mln w 2022 r. do ok. 19,09 mln w 2023 r., co stanowi wzrost o ok. 3,4%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Brak danych dla Bułgarii, Malty i Polski. Dane obejmują regulatory wzrostu roślin i inne środki ochrony roślin.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "kg",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
