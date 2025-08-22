@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz pesticīdu tika pārdoti ES?",
+  "subtitle": "Kopējais pesticīdu pārdošanas apjoms ES27 pieauga no aptuveni 18,46 miljoniem 2022. gadā līdz aptuveni 19,09 miljoniem 2023. gadā, kas atbilst aptuveni 3,4 % pieaugumam.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Nav sniegti dati par Bulgāriju, Maltu un Poliju. Dati ietver augu augšanas regulatorus un citas augu aizsardzības vielas.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "kg",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
