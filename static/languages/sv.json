@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur stor är försäljningsvolymen av bekämpningsmedel i EU?",
+  "subtitle": "Försäljningen av bekämpningsmedel i EU nådde en relativt låg nivå på cirka 292 000 ton år 2023 och minskade med 8,8 % jämfört med 2022.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Malta visualiseras inte eftersom försäljningen av bekämpningsmedel är 3 ton. Följande bekämpningsmedelskategorier är visualiserade fungicider och baktericider, herbicider, blåsdödare och mossdödare, insekticider och akaricider, molluscicider, tillväxtregulatorer och andra växtskyddsmedel.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "ton",
   "tooltipExtraInfoLabel": "Klicka här"
 }
