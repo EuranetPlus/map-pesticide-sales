@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaka jest wielkość sprzedaży pestycydów w UE?",
+  "subtitle": "Sprzedaż pestycydów w UE osiągnęła stosunkowo niski poziom ok. 292 000 ton w 2023 r. i spadła o 8,8% w porównaniu z 2022 r.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Malta nie jest wizualizowana, ponieważ sprzedaż pestycydów wynosi 3 tony. W dalszej kolejności wizualizowane są fungicydy i bakteriocydy, herbicydy, środki niszczące nać i mchy, insektycydy i akarycydy, moluskocydy, regulatory wzrostu roślin oraz inne środki ochrony roślin.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "mnóstwo",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
