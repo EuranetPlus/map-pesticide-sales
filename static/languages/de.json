@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch ist das Verkaufsvolumen von Pestiziden in der EU?",
+  "subtitle": "Der Absatz von Pestiziden in der EU erreichte im Jahr 2023 mit rund 292.000 Tonnen einen relativen Tiefstand und ging im Vergleich zu 2022 um 8,8 % zurück.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Malta wird nicht visualisiert, da der Pestizidabsatz 3 Tonnen beträgt. Folgende Pestizidkategorien werden visualisiert: Fungizide und Bakterizide, Herbizide, Krautzerstörer und Moosvernichter, Insektizide und Akarizide, Molluskizide, Pflanzenwachstumsregulatoren und andere Pflanzenschutzmittel.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "Tonnen",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
