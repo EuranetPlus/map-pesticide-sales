@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Mikä on torjunta-aineiden myyntimäärä EU:ssa?",
+  "subtitle": "Torjunta-aineiden myynti EU:ssa saavutti suhteellisen alhaisen tason, noin 292 000 tonnia vuonna 2023, ja se laski 8,8 prosenttia vuoteen 2022 verrattuna.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Maltaa ei ole visualisoitu, koska torjunta-aineiden myynti on 3 tonnia. Seuraavissa torjunta-aineluokissa on visualisoitu sienitautien ja bakteerien torjunta-aineet, rikkakasvien torjunta-aineet, varsien ja sammaleen torjunta-aineet, hyönteis- ja punkkien torjunta-aineet, nilviäisten torjunta-aineet, kasvien kasvunsäätelyaineet ja muut kasvinsuojeluaineet.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "tonnia",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
