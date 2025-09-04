@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kolikšen je obseg prodaje pesticidov v EU?",
+  "subtitle": "Prodaja pesticidov v EU je leta 2023 dosegla relativno nizko raven, približno 292.000 ton, in se je v primerjavi z letom 2022 zmanjšala za 8,8 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Malta ni prikazana, saj prodaja pesticidov znaša 3 tone. Prikazane so naslednje kategorije pesticidov: fungicidi in baktericidi, herbicidi, uničevalci stebel in mahu, insekticidi in akaricidi, moluskocidi, regulatorji rasti rastlin in druga fitofarmacevtska sredstva.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "tone",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
