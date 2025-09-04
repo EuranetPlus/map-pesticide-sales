@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aký je objem predaja pesticídov v EÚ?",
+  "subtitle": "Predaj pesticídov v EÚ dosiahol v roku 2023 relatívne nízku úroveň približne 292 000 ton a v porovnaní s rokom 2022 klesol o 8,8 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Malta nie je zobrazená, pretože predaj pesticídov predstavuje 3 tony. Zobrazené sú nasledujúce kategórie pesticídov: fungicídy a baktericídy, herbicídy, ničiče vňate a ničiče machu, insekticídy a akaricídy, moluskocídy, regulátory rastu rastlín a iné prípravky na ochranu rastlín.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "tony",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
