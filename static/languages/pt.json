@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual é o volume de vendas de pesticidas na UE?",
+  "subtitle": "As vendas de pesticidas na UE atingiram um nível relativamente baixo de cerca de 292.000 toneladas em 2023 e caíram 8,8% em comparação a 2022.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Malta não é visualizada, pois as vendas de pesticidas são de 3 toneladas. As seguintes categorias de pesticidas são visualizadas: fungicidas e bactericidas, herbicidas, destruidores de colmos e matadores de musgo, inseticidas e acaricidas, moluscicidas, reguladores de crescimento de plantas e outros produtos fitofarmacêuticos.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Nenhum dado disponível",
+  "customUnitLabel": "toneladas",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
