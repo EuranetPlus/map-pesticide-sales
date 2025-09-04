@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jaký je objem prodeje pesticidů v EU?",
+  "subtitle": "Prodej pesticidů v EU dosáhl v roce 2023 relativního minima, přibližně 292 000 tun, a ve srovnání s rokem 2022 klesl o 8,8 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Malta není zobrazena, protože prodej pesticidů činí 3 tuny. Následující kategorie pesticidů jsou zobrazeny: fungicidy a baktericidy, herbicidy, destruktory natě a hubení mechů, insekticidy a akaricidy, moluskocidy, regulátory růstu rostlin a další přípravky na ochranu rostlin.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "tuny",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
