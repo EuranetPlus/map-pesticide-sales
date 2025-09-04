@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Koks yra pesticidų pardavimo kiekis ES?",
+  "subtitle": "Pesticidų pardavimas ES 2023 m. pasiekė santykinai žemą lygį – apie 292 000 tonų – ir, palyginti su 2022 m., sumažėjo 8,8 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Malta nėra vizualizuojama, nes pesticidų pardavimai siekia 3 tonas. Šiose pesticidų kategorijose vizualizuojami fungicidai ir baktericidai, herbicidai, stiebų ir samanų naikinimo priemonės, insekticidai ir akaricidai, moliuskocidai, augalų augimo reguliatoriai, kiti augalų apsaugos produktai.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "tonų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
