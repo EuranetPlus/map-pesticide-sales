@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāds ir pesticīdu pārdošanas apjoms ES?",
+  "subtitle": "Pesticīdu pārdošanas apjoms ES 2023. gadā sasniedza relatīvi zemu līmeni – aptuveni 292 000 tonnu – un salīdzinājumā ar 2022. gadu samazinājās par 8,8 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Malta nav vizualizēta, jo pesticīdu pārdošanas apjoms ir 3 tonnas. Šādās pesticīdu kategorijās ir vizualizēti fungicīdi un baktericīdi, herbicīdi, lakstu un sūnu iznīcinātāji, insekticīdi un akaricīdi, moluscicīdi, augu augšanas regulatori un citi augu aizsardzības līdzekļi.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "tonnas",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
