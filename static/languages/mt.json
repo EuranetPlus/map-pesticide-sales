@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'inhu l-volum tal-bejgħ tal-pestiċidi fl-UE?",
+  "subtitle": "Il-bejgħ tal-pestiċidi fl-UE laħaq livell relattivament baxx ta’ madwar 292,000 tunnellata fl-2023 u naqas bi 8.8% meta mqabbel mal-2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Malta mhijiex viżwalizzata peress li l-bejgħ tal-pestiċidi huwa ta' 3 tunnellati. Il-kategoriji ta' pestiċidi li ġejjin huma viżwalizzati funġiċidi u batteriċidi, erbiċidi, distrutturi tal-ħmieġ u qattiela tal-ħażiż, insettiċidi u akariċidi, molluskiċidi, regolaturi tat-tkabbir tal-pjanti, prodotti oħra għall-protezzjoni tal-pjanti.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tunnellati",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
