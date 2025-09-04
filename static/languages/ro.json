@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care este volumul vânzărilor de pesticide în UE?",
+  "subtitle": "Vânzările de pesticide în UE au atins un minim relativ de aproximativ 292.000 de tone în 2023 și au scăzut cu 8,8% în comparație cu 2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Malta nu este vizualizată, deoarece vânzările de pesticide sunt de 3 tone. Următoarele categorii de pesticide sunt vizualizate: fungicide și bactericide, erbicide, distrugători de tulpini și agenți de eliminare a mușchiului, insecticide și acaricide, moluscocide, regulatori de creștere a plantelor și alte produse de protecție a plantelor.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "tone",
   "tooltipExtraInfoLabel": "Click aici"
 }
